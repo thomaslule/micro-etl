@@ -1,0 +1,6 @@
+.classpath
+.project
+.settings
+logs
+src/test/resources/output.txt
+target
